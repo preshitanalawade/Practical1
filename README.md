@@ -1,18 +1,33 @@
-# Practical1
+# Practical 1: Version Control System using GitHub
 
-## Project Goal
-This project aims to build a machine learning model to analyze and predict outcomes based on the dataset.
+## Objective
+To create and manage a GitHub repository for a Machine Learning project using version control.
+
+## Project Description
+This project demonstrates how to use GitHub for version control, including repository creation, dataset upload, and collaboration using branches and pull requests.
 
 ## Dataset
-The dataset used in this project is a CSV file containing sample data for training and testing the model.
+The dataset used is a sample CSV file named `student_scores.csv`, which contains student performance data such as:
+- Hours studied
+- Attendance
+- Previous scores
+- Final scores
 
-## Technologies Used
-- Python
-- Pandas
-- Scikit-learn
-- Matplotlib
+## Tools & Technologies
+- Git
+- GitHub
+- CSV Dataset
 
-## Project Structure
-- data/ → Contains dataset
-- src/ → Contains code files
+## Files in Repository
+- student_scores.csv → Sample dataset
 - README.md → Project documentation
+
+## Collaboration Steps
+1. Clone the repository
+2. Create a new branch
+3. Make changes
+4. Commit and push changes
+5. Create a pull request
+
+## Outcome
+Successfully implemented version control using GitHub with dataset management and collaboration.
